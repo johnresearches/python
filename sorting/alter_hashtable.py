@@ -10,7 +10,6 @@ class hashtable():
         else:
             self.table[hashcode] = item
 
-
     def hash(self, key):
         return key % size
 
