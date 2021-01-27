@@ -4,5 +4,4 @@ if __name__ == '__main__':
     arr = map(int, e)
     lis = set(arr)
     sortedArr = sorted(lis)
-    
     print sortedArr[-2]
