@@ -30,7 +30,6 @@ class hashtable(object):
         return key % size
 
     def rehash(self,oldhash, size):
-
         return (oldhash + 1) % size
 
     def get(self,key):
