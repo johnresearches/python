@@ -5,6 +5,7 @@ if __name__ == '__main__':
     b = raw_input()
     
     divisionInt = int(a)//int(b)
+    
     divisionFloat = float(a)/float(b)
     
     print divisionInt
