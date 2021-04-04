@@ -1,5 +1,6 @@
 def pivot(array, start, end):
-    #initialize
+    #initializes
+    
     pivot = array[start]
     low = start + 1
     high = end
