@@ -1,4 +1,5 @@
 def selectionsort(arr):
+    
     currentIndex = 0
     
     while(currentIndex < len(arr) - 1):
