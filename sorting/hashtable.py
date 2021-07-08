@@ -4,7 +4,6 @@ class hashtable(object):
         self.size = size
         
         self.slots = [None] * self.size
-        
         self.data = [None] * self.size
 
     def put(self, key,data):
