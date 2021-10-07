@@ -1,5 +1,4 @@
 from __future__ import division
-
 if __name__ == '__main__':
     a = raw_input()
     
